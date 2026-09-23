@@ -12,4 +12,7 @@ list-style-type: upper-alpha;
 
 .nav {
     list-style-type: none;
-}
+    background-color: rgb(255, 133, 198);
+    padding: 30px;
+    
+}   
